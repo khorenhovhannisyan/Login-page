@@ -1,0 +1,73 @@
+.CreateAccount__header{
+    max-width: 665px;
+    height: 45px;
+    font-family: "Kumbh Sans", sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+    color: #4F4F4F;
+    margin: 15px  auto 40px auto;
+
+}
+.CreateAccount__form{
+    max-width: 512px;
+    height: 494px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+    gap: 10px;
+    
+}
+.CreateAccount__formHeading{
+    width: 238px;
+    height: 58px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    align-self: center;
+    font-size: 16px;
+    line-height:25px;
+    text-align: center;
+    color: #667085;
+
+}
+.CreateAccount__form__input{
+    width: 242px;
+    height: 42px;
+    border-radius: 4px;
+    align-self: center;
+    border: 0.5px solid #A7A7A7;
+    padding: 5px;
+}
+.CreateAccount__form__bt{
+    width: 248px;
+    height: 42px;
+    align-self: center;
+    border: 0.5px solid #A7A7A7;
+    background-color: #2D88D4;
+    color: #FFFFFF;
+    cursor: pointer;
+    
+}
+.CreateAccount__form__have{
+    width: 253px;
+    height: 31px;
+    margin: 0 auto;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #667085;
+    
+    span{
+        font-family: "Inter", sans-serif;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 24px;
+        color: #2D88D4;
+       
+    }
+
+}

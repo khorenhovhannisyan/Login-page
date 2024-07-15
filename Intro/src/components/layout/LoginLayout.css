@@ -1,0 +1,42 @@
+.LoginLayout__nav{
+  max-width: 1008px;
+  height: 78px;
+  display: flex;
+  gap: 5px;
+  margin: 0 auto;
+ 
+  
+}
+.LoginLayout__icon{
+  width: 24px;
+  height: 24px;
+  margin: 0 auto;
+  
+}
+.LoginLayout__box{
+width: 240px;
+height: 42px;
+ padding: 2px;
+
+
+}
+.LoginLayout__box__top{
+  width: 240px;
+  height: 20px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  list-style: 20px;
+  color: #344054;
+  text-align:center ;
+}
+.LoginLayout__box__bottom{
+  width: 240px;
+  height: 20px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  list-style: 20px;
+  color: #667085;
+  text-align:center ;
+}
